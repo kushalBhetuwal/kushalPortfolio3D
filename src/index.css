@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
-
+@import url("//fonts.googleapis.com/css?family=Pacifico&text=Kushal");
+@import url("//fonts.googleapis.com/css?family=Roboto:700&text=Bhetuwal");
+@import url("//fonts.googleapis.com/css?family=Kaushan+Script&text=!!");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -181,9 +183,6 @@ body:has(.card[data-color="green"]:hover) {
   box-shadow: 0.6vmin 0.6vmin #fff, 1vmin 1vmin #d2e4ff, 1vmin 1vmin #d2e4ff,
     0.65vmin 1vmin #d2e4ff, 1vmin 0.65vmin #d2e4ff;
 }
-@import url("//fonts.googleapis.com/css?family=Pacifico&text=Kushal");
-@import url("//fonts.googleapis.com/css?family=Roboto:700&text=Bhetuwal");
-@import url("//fonts.googleapis.com/css?family=Kaushan+Script&text=!!");
 
 body {
   min-height: 450px;
